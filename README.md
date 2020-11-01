@@ -1,5 +1,5 @@
 ## FASHIONATOR
-![](imgs/logo.jpeg)
+<img src='imgs/logo.jpeg' width=250 height=250 class="center">
 
 ## Results
 
