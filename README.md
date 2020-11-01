@@ -1,5 +1,3 @@
-# Fashion-Generation
-
 ## Requirements
 ```
 * Python
