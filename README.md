@@ -8,4 +8,4 @@
 ```
 
 ## Results 
-![results1](https://github.com/anish9/Fashion-Generation/blob/master/results.pdf)
+![alt text](https://drive.google.com/file/d/1P4KtzxPbys1qIvnC7UrMz_XXoLlTTK3q/view?usp=sharing)
