@@ -1,5 +1,6 @@
 ## FASHIONATOR
-<img src='imgs/logo.jpeg' width=250 height=250 class="center">
+<div style="text-align:center"><img src='imgs/logo.jpeg' width=250 height=250/></div>
+
 
 ## Results
 
